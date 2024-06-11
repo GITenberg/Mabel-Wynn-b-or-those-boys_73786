@@ -1,0 +1,31 @@
+_repo: Mabel-Wynn-b-or-those-boys_73786
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huntington, Faye
+    aliases:
+    - Foster, Theodosia Maria Toll
+    - Toll, Theodosia Maria
+    - Penn, Aunt
+    - Aunt Penn
+    birthdate: 1838
+    deathdate: 1923
+    gutenberg_agent_id: '37602'
+    url: http://www.gutenberg.org/2009/agents/37602
+description: ''
+gutenberg_issued: '2024-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73786'
+language: en
+pgterms:marc905: 20240529135002huntington
+pgterms:marc906: '1889'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bGeorge Routledge and Sons, Limited, $c1889.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mabel Wynn : $b or "those boys"'
+url: http://www.gutenberg.org/ebooks/73786
